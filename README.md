@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Professor Lucas Kriesel Sperotto</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brasil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Sperotto)](https://github.com/Lucas-Sperotto/)
